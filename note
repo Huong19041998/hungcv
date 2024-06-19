@@ -1,0 +1,41 @@
+n
+日本語の方は日本能力試験のN4レベルを合格しました。N3レベルのコースをしました。今年7月にN3レベルを受験します。
+英語の方は読解と書くことができますけど、聴解と会話あまり良くないです。
+
+
+# Dự án RAG
+RAG 活用でチャットボット作成については２つ大項目があります。
+🔹1つ目はデータ構築です：
+OCR モデルを使用してPDFファイルや画像から情報を抽出し、その情報を埋め込みアルゴリズムを用いて数値ベクトルとして表現し、最終的にPostgresデータベースに保存します。
+🔹2つ目は チャットボットです：
+データベースとユーザー(user)の質問から関連データを取得し、その後Chat GPTを使用して質問に答えます。
+Docker, redis, rag, postgres, flaske api
+＃ Dự án xây dựng hệ thống cảnh báo an toàn dựa trên xác định vật thể trên tàu chở dầu sử dụng model detectron
+
+ Hệ thống gồm  16 camera lắp đặt xung quanh tàu  được kết nối với 4 máy tính để phát hiện cháy và  người đi vào vùng nguy hiểm
+
+- Về cảnh báo người đi vào vùng nguy hiểm : Ảnh được lấy từ các camera  dùng model detectron  để  Detect người, lan can  sau đó  sử dụng homography opencv để tính toán vị trí thực của người so với lan can để cảnh báo phát hiện người đi vào vùng nguy hiểm hoặc  rơi khỏi tàu 
+
+- Về cảnh báo cháy: Detect lửa, khói để cảnh báo cháy
+石油タンカー上の物体を特定することに基づいて安全警報システム構築（kochiku） プロジェクト
+このシステムは、火災と危険区域への人の進入を検出するために、船の周囲に設置(setchi)された16台のカメラと4台のコンピュータで構成(kousei)されています。
+危険区域への人の進入警報について: カメラから取得した画像をDetectronモデルを使用して、人と手すりを検出し、その後、OpenCVのホモグラフィーを使用して人の位置を手すりと比較(hikaku)して計算し、危険区域への進入や船からの転落を警報します。
+火災警報について: 火と煙を検出して火災を警報します。
+
+Kinh nghiệm
+仕事にどんな経験　を　持ってい　ますか？
+
+仕事に画像処理　や　自然言語処理　や　チャットボット　や　データベース　や　ドッカー　や　aws や　Pytorch や　tensorflowやdjango  や　flask  や　opencv など。。。を　やった経験があります。
+
+HaTinh 市-ベトナムの中部ところにいます
+ハノイより南の方です
+
+作業所(sagyousho- chỗ làm việc)
+福岡市に作業したいんです。リモートでもいいと思います。
+- hiện tại đang làm gì
+ベトナムの会社とリモートで　チャットボットについて対応(たいおう)しています。
+
+
+どういう風(ふう)に:loại như nào?
+AI は　いつからはじめましたか？
+→大学の4年生から始めました。
